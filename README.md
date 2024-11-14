@@ -23,7 +23,7 @@ To get started with the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/vitalia.git
+   git clone https://github.com/saikoushiknalubola/vitalia.git
    ```
 2. Navigate into the project folder:
    ```bash
@@ -51,4 +51,3 @@ This project is open-source and available under the MIT License.
 
 ---
 
-This updated README includes **ReactJS** and the **Bolt AI tool** to reflect the technologies used for development. You can adapt the repository URL and installation steps to fit your deployment specifics!
